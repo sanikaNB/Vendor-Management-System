@@ -7,9 +7,4 @@
     <RootNamespace>Vendor_Management_System</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\Client\" />
-    <Folder Include="Views\Vendor\" />
-  </ItemGroup>
-
 </Project>
